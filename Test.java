@@ -7,6 +7,8 @@ public class Test {
         System.out.println("Hello I ma from java ...");
         System.out.println(new Date());
 
+        System.out.println("Comment and check");
+
     }
 
 }
