@@ -9,6 +9,7 @@ public class Test {
 
         System.out.println("Comment and check");
 
+        Main main=new Main();
     }
 
 }
